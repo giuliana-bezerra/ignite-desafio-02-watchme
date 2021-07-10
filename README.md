@@ -86,6 +86,7 @@ Esse desafio foi resolvido da seguinte forma:
     );
   }
   ```
+Obs: Também foi criado o componente Header seguindo a mesma ideia.
 
 ## 🚀 Como executar
 
